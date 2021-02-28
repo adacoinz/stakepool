@@ -1,0 +1,7 @@
+{
+"name": "ADA Coinz",
+"description": "ADA coinz staking your place to grow your digital assets.",
+"ticker": "COINZ",
+"homepage": "https://adacoinz.com", 
+"extended": "https://raw.githubusercontent.com/adacoinz/stakepool/main/coinz/extended.json"
+}
