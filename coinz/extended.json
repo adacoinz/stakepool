@@ -28,13 +28,9 @@
         "rss": ""
     },
     "my-pool-ids": {
-        "0": "91991d9238f3f270a46fc237acc3abcdf2456ff163c1639951d75d15",
-        "1": "9d2687c224f3df75cfc5eff55348c7ceb3c51e6a368f95592ea58ddf"
+        "0": "91991d9238f3f270a46fc237acc3abcdf2456ff163c1639951d75d15"
     },
-    "when-satured-then-recommend": {
-        "0": "91991d9238f3f270a46fc237acc3abcdf2456ff163c1639951d75d15",
-        "1": "9d2687c224f3df75cfc5eff55348c7ceb3c51e6a368f95592ea58ddf"
-    },
+    "when-satured-then-recommend": {},
     "telegram-admin-handle": {
         "0": "adacoinz"
     },
